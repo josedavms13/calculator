@@ -6,12 +6,4 @@ public class Calculator {
     float substract(float a, float b) {
         return a - b;
     }
-
-    float multiplication(float a, float b) {
-        return a * b;
-    }
-
-    float division(float a, float b) {
-        return a / b;
-    }
 }
